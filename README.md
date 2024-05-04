@@ -1,7 +1,7 @@
 # Twitter-Scraper
 ## Introduction
  A Python tool designed for efficiently scraping Twitter accounts looking for mentions of stock symbols.
- The scraper will take an input of 10 Twitter accounts and scrape them every X minutes, looking
+ The scraper takes an input of 10 Twitter accounts URLs and scrape them every X minutes, looking
  for mentions of stock symbols.
 
 ## Requirements
